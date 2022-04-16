@@ -1,0 +1,23 @@
+#the mod name as displayed in-game
+displayName: "Reloaded"
+
+#the internal name of your mod
+name: "r"
+
+#your name
+author: "CoCuCka"
+
+#the fully qualified main class of the mod
+main: "mpkg.Main"
+
+#the mod description as seen in the mod dialog
+description: "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
+
+#the mod version
+version: 0.0.0.1 ALPHA
+
+#the minimum game build required to run this mod
+minGameVersion: 129
+
+#this is a java mod
+java: true
